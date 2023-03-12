@@ -1,0 +1,30 @@
+[33mcommit c278bcae5fd3ef1bc62507c9cb1234bfc3497d0c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 976a074 09dd38d
+Author: BellBell-123 <nodtooza555@gmail.com>
+Date:   Sun Mar 12 13:42:33 2023 +0700
+
+    Merge branch 'features'
+
+[33mcommit 09dd38dce6372ff24f959171aeaa4651126f45a6[m[33m ([m[1;32mfeatures[m[33m)[m
+Author: BellBell-123 <nodtooza555@gmail.com>
+Date:   Sun Mar 12 13:38:54 2023 +0700
+
+    add featuees
+
+[33mcommit 976a074cb1e1ff588860758355d98195308e90e1[m
+Author: BellBell-123 <nodtooza555@gmail.com>
+Date:   Sun Mar 12 11:34:51 2023 +0700
+
+    add bar to index
+
+[33mcommit a3fe42b2dc8b3c1e9acefe34c2d7211f2aef01d2[m
+Author: BellBell-123 <nodtooza555@gmail.com>
+Date:   Sun Mar 12 11:00:52 2023 +0700
+
+    add new two,update index.html
+
+[33mcommit b192a8e0c3f09d3a3813468c22b7a51b5a0f4947[m
+Author: BellBell-123 <nodtooza555@gmail.com>
+Date:   Sun Mar 12 10:33:47 2023 +0700
+
+    Frist commit
